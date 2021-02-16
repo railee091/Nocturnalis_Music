@@ -1,0 +1,22 @@
+
+database-user password:
+8UczxgHaghtSVHU
+database-user username:
+nocturnalismusic
+
+cpanel username:
+vsiwkbjffywa
+cpanel password:
+ivzJ]!i7eo|~i
+
+cpanel email username
+support@nocturnalis.com
+cpanel email password
+FJD.uRWXeQF3
+
+
+
+stripe keys:
+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
+
+pk_live_51IF9DuLygsvOIVtGYrTy3qR7ZgPp0Ttmel33fWf6vV03bf99DFhXyrXVHF9fid7cqrqGVZDxe0J2Z0JTFq1ZC5UF00bb0zb0QM

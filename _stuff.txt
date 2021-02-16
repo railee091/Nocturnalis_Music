@@ -1,0 +1,20 @@
+
+database-user password:
+8UczxgHaghtSVHU
+database-user username:
+nocturnalismusic
+
+cpanel username:
+vsiwkbjffywa
+cpanel password:
+ivzJ]!i7eo|~i
+
+cpanel email username
+support@nocturnalis.com
+cpanel email password
+FJD.uRWXeQF3
+
+altertheparadigm@gmail.com
+Synaptica@04
+
+nocturnalis-com.mail.protection.outlook.com
